@@ -1,0 +1,6 @@
+.app-container{
+  position: absolute;
+  min-height: 100% !important;
+  min-width: 100% !important;
+  background-image: url("https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60");
+}

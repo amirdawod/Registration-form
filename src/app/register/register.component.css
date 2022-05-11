@@ -1,0 +1,24 @@
+.btn {
+margin-bottom: 8%;
+margin-left: 15%;
+  color: rgb(250, 241, 247);
+}
+h5 {
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-top: 15px;
+}
+.container{
+    background:whitesmoke;
+    height: 80%;
+    width: 100%;
+}
+.row{
+  margin-top: 7px;
+}
+.idtextBox{
+  width : 85px;
+}
+
+
